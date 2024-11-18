@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Loncho",
+    "edad": "15",
+    "animal": "perro",
+    "color": "gris",
+    "enfermedad": "vejez"
+  },
+  {
+    "nombre": "mitty",
+    "edad": "6",
+    "animal": "gata",
+    "color": "carey",
+    "enfermedad": "riñones"
+  }
+]
